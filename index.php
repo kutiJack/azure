@@ -1,4 +1,4 @@
 <?php
-echo "Nazdar";
+echo "Dobry den";
 
 ?>
